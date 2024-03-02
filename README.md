@@ -1,23 +1,10 @@
-# Spectral - Jekyll Theme
+# Sonja's personal website
 
-A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
+Built based on the [Andrew's jekyllification](https://github.com/andrewbanchich/spectral-jekyll-theme)) of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
 
-![Spectral Theme](screenshot.jpg "Spectral Theme")
-
-# How to Use
-
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-and [creating pages](https://jekyllrb.com/docs/pages/).
-
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
-
-# Added Features
-
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* **Coming soon**: Set **featured images** in front matter.
-* **Coming soon**: Front page sections automatically pull from posts.
+# License
+The original work is licensed under [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
+Contents are subject to my own copyright.
 
 # Credits
 
