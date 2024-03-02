@@ -2,7 +2,7 @@
 title: Sonja Förster
 email: s.c.forster@umail.leidenuniv.nl
 description: Sonja's personal profile
-baseurl: "/profile" # the subpath of your site, e.g. /blog
+baseurl: "/sf" # the subpath of your site, e.g. /blog
 url: "https://sonjafoerster.github.io" # the base hostname & protocol for your site
 
 # Homepage tiles
