@@ -24,11 +24,12 @@
 		{% endif %}
 	</ul>
 	<ul class="copyright">
-		<li>&copy; {{ site.title }}</li>
-		<li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>.</li>
-		<li>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</li>
-		<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a>.</li>
+		<li>&copy; {{ site.title }} {% assign current_year = "now" | date: "%Y" %}{{ current_year }}</li>
 	</ul>
+	<div class="copyright">
+		<p><span style="text-transform: none;">based on Design by <a href="http://html5up.net" target="_blank">HTML5 UP</a> 
+			with jekyll integration by <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></span> </p>
+	</div>
 </footer>
 
 </div>

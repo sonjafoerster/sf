@@ -2798,6 +2798,14 @@
 			background-color: #2e3842;
 		}
 
+		.wrapper.styleorange {
+			background-color: #cd622c;
+		}
+
+		.wrapper.styleblue {
+			background-color: #2b75d8;
+		}
+
 		.wrapper.style3 {
 			background-color: #505393;
 			color: #d3d4e4;
@@ -3160,7 +3168,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #cd622c;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;

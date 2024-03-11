@@ -1,12 +1,12 @@
 # Sonja's personal website
 
-Built based on the [Andrew's jekyllification](https://github.com/andrewbanchich/spectral-jekyll-theme)) of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
+Built based on [Andrew's jekyllification](https://github.com/andrewbanchich/spectral-jekyll-theme) of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
 
 # License
 The original work is licensed under [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 Contents are subject to my own copyright.
 
-# Credits
+# Credits for design
 
 Original README from HTML5 UP:
 
@@ -65,5 +65,10 @@ Credits:
 		Skel (skel.io)
 
 ```
+# Credits for timeline design
+The timeline design utilized here is built on a design by https://codepen.io/alvarotrigo/pen/VwMZjjQ*/
+
+# Credits for contact form
+Contact form based on design by Rok Krivec via https://colorlib.com/wp/template/contact-form-08/, originally licensed under CC BY 3.0
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).

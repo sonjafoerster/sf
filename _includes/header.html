@@ -2,19 +2,31 @@
 <div id="page-wrapper">
 
 	<!-- Header -->
-	<header id="header" {% if page.layout == 'default' %} class="alt" {% endif %}>
-		<h1><a href="{{ "" | absolute_url }}/">Spectral</a></h1>
+	<header id="header" {% if page.layout == 'home' %} class="alt" {% endif %}>
+		<h1><a href="{{ "" | absolute_url }}/">Sonja Förster</a></h1>
 		<nav id="nav">
 			<ul>
 				<li class="special">
 					<a href="#menu" class="menuToggle"><span>Menu</span></a>
 					<div id="menu">
 						<ul>
-							{% for page in site.pages %} {% if page.layout == "default" %}
+							{% for page in site.pages %} {% if page.layout == "home" %}
+							<li><a href="{{ page.url | absolute_url }}">Home</a></li> 
+							<!-- hardcoded Home, otherwise would pull page title from index.md -->
+							{% endif %}{% endfor %}
+							{% for page in site.pages %}{% if page.layout == "sectionstart" %}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "page" %}
+							{% endif %}{% endfor %}
+							{% for page in site.pages %}{% if page.layout == "aboutme" %}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %}
+							{% endif %}{% endfor %}
+							<li><a href="portfolio" class="icon fa-briefcase"> Portfolio</a></li>
+							<li><a href="cv" class="icon fa-book"> CV</a></li>
+							<!-- <li><a href="material" class="icon fa-share"> Material</a></li> -->
+							<!-- no Material in MVP -->
+							<!-- {% for page in site.pages %} {% if page.layout == "page" %}
+							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+							{% endif %} {% endfor %} -->
 						</ul>
 					</div>
 				</li>
