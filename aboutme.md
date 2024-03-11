@@ -1,7 +1,7 @@
 ---
 layout: aboutme
 title: About me
-description: Some things beyond being a designer and studying psychology and neuroscience, 
+description: Some things beyond being a designer and studying psychology and neuroscience 
 image: feet.jpg
 ---
 

@@ -13,7 +13,7 @@ image: neuro2.jpg
 			</p>
 		</header>
 		<ul class="actions">
-			<li><a href="ommstart" class="button">Blog posts: Of mice and men</a></li>
+			<li><a href="https://anneurai.net/2024/02/09/of-mice-and-women-or-how-i-learned-to-read-spikes/" target="blank" class="button icon fa-external-link">Blog post: Of mice and (wo)men</a></li>
 			<li><a href="ephys" class="button">Intro ephys alignments</a></li>
 			<!-- <li><a href="material" class="button icon fa-share">Material</a></li> -->
 		</ul>
