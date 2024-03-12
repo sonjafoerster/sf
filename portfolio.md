@@ -13,7 +13,7 @@ image: pic02.jpg
                     <div class="timeline-content">
                         <div class="circle"><span class="homebox"><img src="assets/images/portfolio/navifymp.png" class="img"></span></div>
                         <div class="content">
-                            <span class="year">Sequencing results - tertiray analysis </span>
+                            <span class="year">Sequencing results - tertiary analysis </span>
                             <!-- <h3 class="title h4">Software Products</h3> -->
                             <p class="description">
                                 navify&reg; Mutation Profiler is a tertiary analysis tool for genome sequencing results. Pathologists and oncologists can use the tool to identify cancer-related mutation profiles similar to their patient's and receive suggestions for open clinical trials, promising treatment, or other relevant scientific information.
@@ -187,7 +187,7 @@ image: pic02.jpg
                             <span class="year">Molecular Pre-analytics</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                The cobas&reg; Prime instrument automates the pre-analytic workflow in molecular laboratories including to bulk-load different sample containers, read the barcodes, position the containers, de- and recaps the containers, print new barcodes for tracking in the laboratory, and prepares the samples for Polymerase Chain Reaction (PCR) testing. This reduces errors from manual work steps and frees up a lot of time which lab personell can spend on other tasks.
+                                The cobas&reg; Prime instrument automates the pre-analytic workflow in molecular laboratories including to bulk-load different sample containers, read the barcodes, position the containers, de- and recaps the containers, print new barcodes for tracking in the laboratory, and prepares the samples for Polymerase Chain Reaction (PCR) testing. This reduces errors from manual work steps and frees up a lot of time which lab personel can spend on other tasks.
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Molecluar laboratories</li>
@@ -206,7 +206,7 @@ image: pic02.jpg
                             <span class="year">Managing minimally invasive surgery</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                The OR1&reg; software suite offers multiple functions. While I was involved, we worked on functionalities to allow for remote consultation during surgery, manage videos and stills, enable control of the OR (eg, the overall light conditions), and a monitoring function for circulating nurses for life information from the different ORs they are serving. 
+                                The OR1&reg; software suite offers multiple functions. While I was involved, we worked on functionalities to allow for remote consultation during surgery, manage videos and stills, enable control of the OR (eg, the overall light conditions), and a monitoring function for circulating nurses for live information from the different ORs they are serving. 
                                 <ul>
                                     <li class="description"><em> Company:</em> Karl Storz</li>
                                     <li class="description"><em> Usage:</em> Minimally invasive surgery</li>

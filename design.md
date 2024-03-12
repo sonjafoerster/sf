@@ -2,7 +2,7 @@
 layout: sectionstart
 title: Design & UX Research
 description: As a UX Designer and UX Researcher, it is my foremost goal to develop designs which meet the needs of the actual end user.
-image: arches.jpg
+image: arches_d.png
 ---
 
 <section class="wrapper styleblue special">

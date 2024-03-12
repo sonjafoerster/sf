@@ -2,7 +2,7 @@
 layout: sectionstart
 title: Psychology & Neuroscience
 description: Always aiming to learn more and to interconnect different domains, disciplines, and competencies, I embarked on a psychology education to accompany my background in design and human factors.
-image: neuro2.jpg
+image: neuro_d.png
 ---
 
 <section id="one" class="wrapper style2 special">
