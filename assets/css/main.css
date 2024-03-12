@@ -2802,8 +2802,12 @@
 			background-color: #cd622c;
 		}
 
-		.wrapper.styleblue {
-			background-color: #2b75d8;
+		.wrapper.stylered {
+			background-color: #b5002e;
+		}
+
+		.wrapper.stylegreen {
+			background-color: #60a904;
 		}
 
 		.wrapper.style3 {

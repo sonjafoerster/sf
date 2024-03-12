@@ -2,10 +2,10 @@
 layout: aboutme
 title: About me
 description: Some things beyond being a designer and studying psychology and neuroscience. 
-image: feet.jpg
+image: aboutme.jpg
 ---
 
-<section class="wrapper style1 special">
+<section class="wrapper style3 special">
 	<div class="inner">
 		<header class="major">
 			<h2>Beyond design and psychology</h2>

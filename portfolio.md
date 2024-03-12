@@ -2,7 +2,7 @@
 layout: timelinelayout
 title: Portfolio
 description: Find below an overview of software and hardware products I've been involved with as <br> UX Designer, UX Researcher, and Human Factors Specialist with a focus on healthcare products.
-image: pic02.jpg
+image: portfolio.jpg
 ---
 
 <div class="container py-5">
