@@ -67,8 +67,3 @@ Credits:
 ```
 # Credits for timeline design
 The timeline design utilized here is built on a design by https://codepen.io/alvarotrigo/pen/VwMZjjQ*/
-
-# Credits for contact form
-Contact form based on design by Rok Krivec via https://colorlib.com/wp/template/contact-form-08/, originally licensed under CC BY 3.0
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
