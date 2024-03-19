@@ -16,12 +16,13 @@ image: portfolio.jpg
                             <span class="year">Sequencing results - tertiary analysis </span>
                             <!-- <h3 class="title h4">Software Products</h3> -->
                             <p class="description">
-                                navify&reg; Mutation Profiler is a tertiary analysis tool for genome sequencing results. Pathologists and oncologists can use the tool to identify cancer-related mutation profiles similar to their patient's and receive suggestions for open clinical trials, promising treatment, or other relevant scientific information.
+                                navify&reg; Mutation Profiler is a tertiary analysis tool for genome sequencing results. Pathologists and oncologists can use the tool to identify cancer-related mutation profiles similar to their patient's and receive suggestions for open clinical trials, promising treatment, or other relevant scientific information. <br>
+                                <a href="https://marketplace.roche.com/us/en-us/products/navify-mutation-profiler" target="_blank"><em>Official product website navify&reg; Mutation Profiler</em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Sequencing Solutions</li>
                                     <li class="description"><em> Product type:</em> Desktop Software</li>
-                                    <li class="description"><em> Design involvement:</em> UX Research & Evaluation, UX Design, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Research & Evaluation, UX Concept & Design, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -35,12 +36,13 @@ image: portfolio.jpg
                             <span class="year">Prepare samples for sequencing</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                               This instrument covers three steps in the process to prepare the samples for sequencing analysis: library preparation, target enrichment, and library quantification according to the protocol and pipeline used for later analysis.
+                               This instrument covers three steps in the process to prepare the samples for sequencing analysis: library preparation, target enrichment, and library quantification according to the protocol and pipeline used for later analysis.<br>
+                                <a href="https://sequencing.roche.com/global/en/products/group/avenio-edge-system.html" target="_blank"><em>Official product website AVENIO Edge System</em></a>
                                <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Sequencing Solutions</li>
                                     <li class="description"><em> Product type:</em> Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Research & Evaluation, Design Review, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Research & Evaluation, UX Concept, Design & Usability Review, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -54,12 +56,12 @@ image: portfolio.jpg
                             <span class="year">Sequencing instrument</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                The sequencing instrument performs the primary sequencing analysis on the samples after nucleid acid extraction and sample preparation. This instrument is not yet on the market.
+                                The sequencing instrument performs the primary sequencing analysis on the samples after nucleid acid extraction and sample preparation. <br> This instrument is still under development and thus not yet available on the market.
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Sequencing Solutions</li>
                                     <li class="description"><em> Product type:</em> Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Research & Evaluation, UX Design & Usability, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Research & Evaluation, UX Concept & Design, Usability, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -73,12 +75,13 @@ image: portfolio.jpg
                             <span class="year">Order sequencing analysis kits</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                A web-based tool to design or customize sequencing analysis kits and to order the associated reagents and chemicals right at the end of the design process.
+                                A web-based tool to design or customize sequencing analysis kits and to order the associated reagents and chemicals right at the end of the design process.<br>
+                                <a href="https://sequencing.roche.com/global/en/products/group/avenio-designer-software.html" target="_blank"><em>Official product website AVENIO Designer Software</em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Sequencing Solutions</li>
                                     <li class="description"><em> Product type:</em> Web-based software and ordering tool</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design, Design Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Design Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -92,12 +95,13 @@ image: portfolio.jpg
                             <span class="year">A sequencing workflow manager</span>
                             <!-- <h3 class="title 4">Heading</h3> -->
                             <p class="description">
-                               This software monitors all steps required for an end-to-end sequencing workflow, monitors all associated devices and analysis steps, tracks the sample and anlysis status, and notifies the user accordingly.
+                               This software monitors all steps required for an end-to-end sequencing workflow, monitors all associated devices and analysis steps, tracks the sample and anlysis status, and notifies the user accordingly.<br>
+                                <a href="https://sequencing.roche.com/global/en/products/group/avenio-connect-software.html" target="_blank"><em>Official product website AVENIO Connect Software</em></a>
                                <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Sequencing Solutions</li>
                                     <li class="description"><em> Product type:</em> Cloud-based tracking & monitoring tool</li>
-                                    <li class="description"><em> Design involvement:</em> UX Research, Workflow analysis, UX Design, Design Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Research, Workflow analysis, UX Concept & Design, Usability & Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -130,7 +134,8 @@ image: portfolio.jpg
                             <span class="year">Nucleid acid extraction</span>
                             <!-- <h3 class="title 4">Heading</h3> -->
                             <p class="description">
-                               A table-top instrument with embedded software for touchscreen operation, the MagNA Pure 24 can extract targets from a wide range of samples such as whole blood, plasma, serum, nasal swabs, urine, or cultured cells.
+                               A table-top instrument with embedded software for touchscreen operation, the MagNA Pure 24 can extract targets from a wide range of samples such as whole blood, plasma, serum, nasal swabs, urine, or cultured cells.<br>
+                                <a href="https://diagnostics.roche.com/nl/en/products/instruments/magna-pure-24-ins-6065.html" target="_blank"><em>Official product website MagNA Pure 24 System</em></a>
                                <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Molecular laboratories</li>
@@ -149,12 +154,15 @@ image: portfolio.jpg
                             <span class="year">Systems for automated PCR</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                These large, floor-standing instruments comprise functionalities, consumables, reagents, and data management to automatically run Polymerase Chain Reaction (PCR)  based on Nucleid Acid Testing (NAT). These instruments are for example used for blood screening or virus detection and virus load determination such as SARS-COV2, HIV, or HBV.
+                                These large, floor-standing instruments comprise functionalities, consumables, reagents, and data management to automatically run Polymerase Chain Reaction (PCR)  based on Nucleid Acid Testing (NAT). These instruments are for example used for blood screening or virus detection and virus load determination such as SARS-COV2, HIV, or HBV.<br>
+                                <a href="https://diagnostics.roche.com/nl/en/products/instruments/cobas-6800-ins-2693.html" target="_blank"><em>Official product website cobas&reg; 6800</em></a>
+                                <br>
+                                <a href="https://diagnostics.roche.com/nl/en/products/instruments/cobas-8800-ins-2694.html" target="_blank"><em>Official product website cobas&reg; 8800</em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Molecluar laboratories</li>
                                     <li class="description"><em> Product type:</em>Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design & Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Usability & Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -168,7 +176,8 @@ image: portfolio.jpg
                             <span class="year">Point-of-care PCR</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                The cobas&reg; Liat system comprises a point-of-care sized Polymerase Chain Reaction (PCR) instrument and a ready-made assay tube for rapid in <em>vitro diagnostic</em> tests.
+                                The cobas&reg; liat system comprises a point-of-care sized Polymerase Chain Reaction (PCR) instrument and a ready-made assay tube for rapid in <em>vitro diagnostic</em> tests.<br>
+                                <a href="https://diagnostics.roche.com/global/en/products/instruments/cobas-liat-ins-6050.html" target="_blank"><em>Official product website cobas&reg; liat system</em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Molecluar laboratories or point-of-care facilities</li>
@@ -187,12 +196,13 @@ image: portfolio.jpg
                             <span class="year">Molecular Pre-analytics</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                The cobas&reg; Prime instrument automates the pre-analytic workflow in molecular laboratories including to bulk-load different sample containers, read the barcodes, position the containers, de- and recaps the containers, print new barcodes for tracking in the laboratory, and prepares the samples for Polymerase Chain Reaction (PCR) testing. This reduces errors from manual work steps and frees up a lot of time which lab personel can spend on other tasks.
+                                The cobas&reg; Prime instrument automates the pre-analytic workflow in molecular laboratories including to bulk-load different sample containers, read the barcodes, position the containers, de- and recaps the containers, print new barcodes for tracking in the laboratory, and prepares the samples for Polymerase Chain Reaction (PCR) testing. This reduces errors from manual work steps and frees up a lot of time which lab personel can spend on other tasks.<br>
+                                <a href="https://diagnostics.roche.com/global/en/products/instruments/cobas-prime-ins-6545.html" target="_blank"><em>Official product website cobas&reg; prime pre-analytical system</em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Roche Diagnostics</li>
                                     <li class="description"><em> Lab area:</em> Molecluar laboratories</li>
                                     <li class="description"><em> Product type:</em>Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design, Hardware Interface Concept and Ergonomic Assessment, Usability Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Hardware Interface Concept and Ergonomic Assessment, Usability Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -206,12 +216,13 @@ image: portfolio.jpg
                             <span class="year">Managing minimally invasive surgery</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                The OR1&reg; software suite offers multiple functions. While I was involved, we worked on functionalities to allow for remote consultation during surgery, manage videos and stills, enable control of the OR (eg, the overall light conditions), and a monitoring function for circulating nurses for live information from the different ORs they are serving. 
+                                The OR1&reg; software suite offers multiple functions. While I was involved, we worked on functionalities to allow for remote consultation during surgery, manage videos and stills, enable control of the OR (eg, the overall light conditions), and a monitoring function for circulating nurses for live information from the different ORs they are serving.<br>
+                                <a href="https://www.karlstorz.com/de/en/OR1-Integration.htm" target="_blank"><em>Official product website OR1&reg; </em></a> 
                                 <ul>
                                     <li class="description"><em> Company:</em> Karl Storz</li>
                                     <li class="description"><em> Usage:</em> Minimally invasive surgery</li>
                                     <li class="description"><em> Product type:</em>Software with touch and voice interface</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design, Usability Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Usability Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -225,12 +236,13 @@ image: portfolio.jpg
                             <span class="year">Insufflation of the operational field</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                In minimally invasive surgery, an insufflator is often used to expand the cavity of the surgical field through a gas for optimal access and view.
+                                In minimally invasive surgery, an insufflator is often used to expand the cavity of the surgical field through a gas for optimal access and view.<br>
+                                <a href="https://www.karlstorz.com/de/en/product-detail-page.htm?productID=1000130599&cat=1000200838" target="_blank"><em>Official product website ENDOFLATOR 40 </em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Karl Storz</li>
                                     <li class="description"><em> Usage:</em> Minimally invasive surgery</li>
                                     <li class="description"><em> Product type:</em>Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design, Usability Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Usability Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -244,12 +256,13 @@ image: portfolio.jpg
                             <span class="year">Suction or irrigation pump</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                This pump can take two functions to support minimally invasive surgery: it can irrigate the surgical field as well as suction fluids or smoke from the surgical field.
+                                This pump can take two functions to support minimally invasive surgery: it can irrigate the surgical field as well as suction fluids or smoke from the surgical field.<br>
+                                <a href="https://www.karlstorz.com/de/en/product-detail-page.htm?productID=1000060113&cat=1000199958" target="_blank"><em>Official product website ENDOMAT&reg; </em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> Karl Storz</li>
                                     <li class="description"><em> Usage:</em> Minimally invasive surgery</li>
                                     <li class="description"><em> Product type:</em>Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design, Usability Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Usability Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -268,7 +281,7 @@ image: portfolio.jpg
                                     <li class="description"><em> Company:</em> Karl Storz</li>
                                     <li class="description"><em> Usage:</em> Minimally invasive surgery</li>
                                     <li class="description"><em> Product type:</em>Hardware, embedded software for touchscreen use</li>
-                                    <li class="description"><em> Design involvement:</em> UX Design, Usability Evaluation, Risk analysis, Documentation</li>
+                                    <li class="description"><em> Design involvement:</em> UX Concept & Design, Usability Evaluation, Risk analysis, Documentation</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -304,7 +317,7 @@ image: portfolio.jpg
                                 <ul>
                                     <li class="description"><em> Company:</em> Humedics</li>
                                     <li class="description"><em> Usage:</em>Determining a patient's liver function through breath</li>
-                                    <li class="description"><em> Design involvement:</em> UX Research, user worklow analysis, Design Concept</li>
+                                    <li class="description"><em> Design involvement:</em> UX Research, User worklow analysis, Design Concept</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -322,7 +335,7 @@ image: portfolio.jpg
                                 <ul>
                                     <li class="description"><em> Company:</em> designS</li>
                                     <li class="description"><em> Usage:</em>Icons for various products</li>
-                                    <li class="description"><em> Design involvement:</em> Design</li>
+                                    <li class="description"><em> Design involvement:</em> Concept & Design</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
@@ -340,7 +353,7 @@ image: portfolio.jpg
                                 <ul>
                                     <li class="description"><em> Company:</em> My Thesis Industrial Design</li>
                                     <li class="description"><em> Usage:</em>Blood glucose montoring</li>
-                                    <li class="description"><em> Design involvement:</em> UX Research, Design Concept</li>
+                                    <li class="description"><em> Design involvement:</em> UX Research, Technology research, UX Concept & Design</li>
                                 </ul>
                             </p>
                             <div class="icon"><span></span></div>
