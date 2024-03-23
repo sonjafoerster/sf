@@ -2,7 +2,7 @@
 layout: page
 title: Case Study SafIRa
 description: A Device for Non-Invasive Blood Glucose Monitoring 
-image: safira_title.png
+image: safira_title.webp
 ---
 
 <!-- <section id="start" class="wrapper alt stylegrey1">
