@@ -2800,10 +2800,32 @@
 
 		.wrapper.styleorange {
 			background-color: #cd622c;
+			color: #fff;
 		}
 
 		.wrapper.stylered {
-			background-color: #b5002e;
+			background-color: #b30a47;
+			color: #fff;
+		}
+
+		.wrapper.stylegrey1 {
+			background-color: #A4B0CA;
+			color: #fff;
+		}
+
+		.wrapper.stylegrey2 {
+			background-color: #909CB7;
+			color: #fff;
+		}
+
+		.wrapper.stylegrey3 {
+			background-color: #727E97;
+			color: #fff;
+		}
+
+		.wrapper.stylegrey4 {
+			background-color: #546078;
+			color: #fff;
 		}
 
 		.wrapper.stylegreen {

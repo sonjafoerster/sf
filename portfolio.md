@@ -1,9 +1,17 @@
 ---
 layout: timelinelayout
 title: Portfolio
-description: Find below an overview of software and hardware products I've been involved with as <br> UX Designer, UX Researcher, and Human Factors Specialist with a focus on healthcare products.
+description: A selection of my work.
 image: portfolio.jpg
 ---
+-------------------
+<section class="inner special">
+    <p>Here, you can find a selection of software and hardware products I've been involved with as UX Designer, UX Researcher, and Human Factors Specialist. For an example case study, follow the button below to see the full story of my work SafIRa - a product for non-invasive glucose monitoring.</p>
+    <a href="safira" class="button icon fa-bar-chart">Case Study <span style="text-transform:none;">SafIRa</span></a>
+</section>
+
+-----------------------------------------
+<br>
 
 <div class="container py-5">
     <div class="row">
@@ -349,7 +357,8 @@ image: portfolio.jpg
                             <span class="year">SafIRa - non-invasive blood glucose monitoring</span>
                             <!-- <h3 class="title h4">Heading</h3> -->
                             <p class="description">
-                                This design study comprises software and and hardware design concepts of a device for non-invasive blood glucose monitoring. Utlizing a rotating hardware element, the user can directly access into main functions of the software.
+                                This design study comprises software and and hardware design concepts of a device for non-invasive blood glucose monitoring. Utlizing a rotating hardware element, the user can directly access into main functions of the software.<br>
+                                <a href="safira"><em>Full case study: SafIRa</em></a>
                                 <ul>
                                     <li class="description"><em> Company:</em> My Thesis Industrial Design</li>
                                     <li class="description"><em> Usage:</em>Blood glucose montoring</li>
