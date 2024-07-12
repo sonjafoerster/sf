@@ -5,7 +5,7 @@ description: Some things beyond being a designer and studying psychology and neu
 image: aboutme.jpg
 ---
 
-<section class="wrapper style3 special">
+<section class="wrapper stylepurple special">
 	<div class="inner">
 		<header class="major">
 			<h2>Beyond design and psychology</h2>
