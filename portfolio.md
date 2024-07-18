@@ -6,7 +6,7 @@ image: portfolio.jpg
 ---
 -------------------
 <section class="inner special">
-    <p>Here, you can find a selection of software and hardware products I've been involved with as UX Designer, UX Researcher, and Human Factors Specialist. For an example case study, follow the button below to see the full story of my work SafIRa - a product for non-invasive glucose monitoring.</p>
+    <p>Here, you can find a selection of software and hardware products I've been involved with as UX Designer, UX Researcher, and Human Factors Specialist. For confidentiality reasons endorsed by my former employers, I cannot share any pictures of detailed designs. For a demonstration of my design approach, follow the button below to see the full case study of my work SafIRa - a product for non-invasive glucose monitoring.</p>
     <a href="safira" class="button icon fa-bar-chart">Case Study <span style="text-transform:none;">SafIRa</span></a>
 </section>
 
